@@ -1,5 +1,5 @@
 /* =========================================================
-   Palak Deb Patra's System Design Course — shared runtime
+   Palak Deb Patra's System Design Playlist — shared runtime
    Builds the shell (sidebar, topbar, footer nav) and wires up
    generic components: tabs, steppers, quizzes, flip cards, seg controls.
    Exposes helpers on window.SD for chapter-specific simulations.
@@ -612,7 +612,7 @@
     const credit = document.createElement('p');
     credit.className = 'muted small';
     credit.style.cssText = 'text-align:center;margin:44px 0 0';
-    credit.innerHTML = `◆ <a href="index.html">${AUTHOR}'s System Design Course</a> · © 2026 ${AUTHOR}`;
+    credit.innerHTML = `◆ <a href="index.html">${AUTHOR}'s System Design Playlist</a> · © 2026 ${AUTHOR}`;
     main.appendChild(credit);
   }
   SD.chapter = chap;

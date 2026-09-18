@@ -1,4 +1,4 @@
-# Palak's System-Design Course
+# Palak's System Design Playlist
 
 An interactive system-design course: **42 chapters** across five levels, each with animated
 diagrams, live simulators, a "common mistakes" box, an interview drill and a 5-question quiz —

@@ -99,7 +99,7 @@ const bundle = `<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(pages['index.html'].title)}</title>
 <meta name="author" content="Palak Deb Patra">
-<meta name="description" content="Palak Deb Patra's System Design Course — 42 interactive chapters with live diagrams, simulators and quizzes. Single-file offline edition.">
+<meta name="description" content="Palak Deb Patra's System Design Playlist — 42 interactive chapters with live diagrams, simulators and quizzes. Single-file offline edition.">
 <script>try{var t=JSON.parse(localStorage.getItem('sd-theme'));if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 <style>
 ${css}
